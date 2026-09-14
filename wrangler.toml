@@ -1,7 +1,6 @@
 # Cloudflare Workers 配置 - NavHub 个人网址导航（纯静态）
 # 标准结构参考：daohangwangzhan
 name = "navhub"
-main = "src/worker.js"
 compatibility_date = "2025-06-01"
 
 # 静态资源目录（构建产物）；SPA 模式，未命中的路径回退到 index.html
