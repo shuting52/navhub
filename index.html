@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>陈淑婷 · 资源收藏导航</title>
+  <meta name="description" content="全中文一站式精选实用资源与网站导航平台，涵盖影视娱乐、在线工具、音乐听歌、小说阅读、游戏资源与装机必备。" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>?</text></svg>" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- ======== 动态视频 / 图片 / 纯色 背景层 ======== -->
+  <div class="bg-stage" id="bgStage">
+    <video id="bgVideo" autoplay muted loop playsinline preload="metadata"></video>
+    <div class="bg-poster" id="bgPoster"></div>
+    <div class="bg-overlay" id="bgOverlay"></div>
+  </div>
+
+  <!-- ======== 跑马灯公告条 ======== -->
+  <div class="marquee-bar" id="marqueeBar" hidden>
+    <span class="marquee-label">📢 公告</span>
+    <div class="marquee-track-wrap">
+      <div class="marquee-track" id="marqueeTrack"></div>
+    </div>
+  </div>
+
+  <!-- ======== 顶部 ======== -->
+  <header class="iiice-header" id="siteHeader">
+    <div class="iiice-header-inner">
+      <div class="iiice-brand" id="brand">
+        <span class="brand-logo" id="brandLogo">?</span>
+        <div class="brand-text">
+          <h1 id="siteTitle">陈淑婷 · 资源收藏导航</h1>
+          <p id="siteSubtitle">全中文一站式精选实用资源与网站导航平台</p>
+        </div>
+      </div>
+
+      <!-- 搜索框 + 搜索引擎切换 -->
+      <div class="iiice-search">
+        <div class="search-box">
+          <button class="search-engine" id="searchEngineBtn" title="切换搜索引擎">
+            <span id="engineIcon">B</span>
+          </button>
+          <input id="searchInput" type="search" placeholder="搜索资源…（回车直达）" autocomplete="off" />
+          <button class="search-go" id="searchGoBtn" title="搜索">
+            <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+          </button>
+          <div class="engine-dropdown" id="engineDropdown" hidden>
+            <button data-eng="bing">B 必应</button>
+            <button data-eng="baidu">B 百度</button>
+            <button data-eng="google">G 谷歌</button>
+            <button data-eng="sogou">S 搜狗</button>
+            <button data-eng="so360">3 360</button>
+            <button data-eng="zhihu">知 知乎</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <div class="clock-wrap" id="clockWrap">
+          <span class="clock-time" id="clockTime">--:--:--</span>
+          <span class="clock-date" id="today"></span>
+        </div>
+        <button id="themeBtn" class="iiice-nav-btn" title="切换主题">?</button>
+        <button id="adminBtn" class="iiice-nav-btn admin-btn" title="管理导航">⚙️ 管理</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ======== 欢迎问候区 ======== -->
+  <div class="hero-wrap" id="heroWrap" hidden>
+    <div class="hero-greeting" id="greeting"></div>
+    <div class="hero-sub" id="heroSub"></div>
+  </div>
+
+  <!-- ======== 分类导航（胶囊形 + slogan） ======== -->
+  <nav class="cat-bar">
+    <div class="cat-nav" id="catNav" aria-label="分类导航"></div>
+  </nav>
+
+  <!-- ======== 主区域：内容 + 侧边栏 ======== -->
+  <main class="iiice-main">
+    <div class="iiice-main-inner">
+
+      <div class="iiice-content" id="content"></div>
+
+      <aside class="iiice-side" id="sidePanel">
+        <div class="side-card">
+          <div class="side-card-title">? 最近访问</div>
+          <div class="side-list" id="recentList"><div class="side-empty">暂无记录</div></div>
+        </div>
+        <div class="side-card">
+          <div class="side-card-title">? 热门排行</div>
+          <div class="side-list" id="hotList"><div class="side-empty">暂无数据</div></div>
+        </div>
+        <div class="side-card side-tip">
+          <div class="side-card-title">? 小贴士</div>
+          <p>点 ⚙️ 管理 可增删改导航、设置动态视频/图片背景与跑马灯公告。</p>
+        </div>
+      </aside>
+
+    </div>
+  </main>
+
+  <!-- ======== 页脚：友情链接 ======== -->
+  <footer class="iiice-footer">
+    <div class="footer-links" id="friendLinks"></div>
+    <div class="footer-copy" id="siteFooter"></div>
+  </footer>
+
+  <!-- ======== 管理面板 ======== -->
+  <div class="modal-mask" id="adminMask" hidden>
+    <div class="modal" role="dialog" aria-modal="true">
+      <div class="modal-head">
+        <h2>⚙️ 管理导航</h2>
+        <div class="modal-head-actions">
+          <button id="exportBtn" class="btn">⬇️ 导出备份</button>
+          <label class="btn" for="importFile">⬆️ 导入备份</label>
+          <input type="file" id="importFile" accept=".json,application/json" hidden />
+          <button id="resetBtn" class="btn btn-danger">? 恢复默认</button>
+          <button id="closeAdmin" class="icon-btn" title="关闭">✕</button>
+        </div>
+      </div>
+
+      <div class="modal-body">
+        <p class="hint">? 修改后点击「保存」生效，数据保存在浏览器本地；可随时导出 JSON 备份或迁移。</p>
+
+        <!-- 站点设置：背景 + 公告 -->
+        <div class="admin-site-settings">
+          <div class="settings-title">? 站点设置（背景 / 公告）</div>
+          <div class="settings-grid">
+            <label>背景视频 URL（mp4/webm）
+              <input id="setBgVideo" type="text" placeholder="https://example.com/bg.mp4（留空关闭）" />
+            </label>
+            <label>背景图片 URL（视频未启用时生效）
+              <input id="setBgImage" type="text" placeholder="https://example.com/bg.jpg" />
+            </label>
+            <label>背景纯色（可选）
+              <input id="setBgColor" type="text" placeholder="#0f172a" />
+            </label>
+            <label>遮罩浓度（0~1，越大越暗）
+              <input id="setBgOverlay" type="number" min="0" max="1" step="0.05" />
+            </label>
+          </div>
+          <div class="settings-title" style="margin-top:12px">? 跑马灯公告（每行一条，格式：文案 | 链接）</div>
+          <textarea id="setNotices" rows="4" placeholder="欢迎来到资源收藏导航 | https://example.com"></textarea>
+        </div>
+
+        <div id="adminCategories"></div>
+
+        <div class="add-cat-row">
+          <input id="newCatName" type="text" placeholder="新分类名称（如：常用）" />
+          <input id="newCatIcon" type="text" placeholder="图标（如：?）" maxlength="8" />
+          <button id="addCatBtn" class="btn btn-primary">＋ 新增分类</button>
+        </div>
+      </div>
+
+      <div class="modal-foot">
+        <button id="saveBtn" class="btn btn-primary btn-lg">? 保存</button>
+        <button id="cancelAdmin" class="btn">取消</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast" hidden></div>
+
+  <script src="js/app.js"></script>
+  <script src="js/admin.js"></script>
+</body>
+</html>
