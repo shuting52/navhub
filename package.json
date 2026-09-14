@@ -1,0 +1,15 @@
+{
+  "name": "navhub",
+  "version": "3.0.0",
+  "description": "个人网址导航 - 纯前端静态站点（支持 GitHub Pages / Cloudflare Workers / Cloudflare Pages）",
+  "private": true,
+  "scripts": {
+    "build": "echo \"静态站点无需构建\" && mkdir -p dist && cp -r index.html css js data README.md dist/",
+    "deploy:worker": "wrangler deploy",
+    "deploy:pages": "wrangler pages deploy dist --project-name=navhub",
+    "preview": "npx serve ."
+  },
+  "devDependencies": {
+    "wrangler": "^3.90.0"
+  }
+}
