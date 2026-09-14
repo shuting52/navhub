@@ -1,10 +1,11 @@
-# Cloudflare Workers 配置 - 托管静态导航站
-# 纯静态站点，无需构建
+# Cloudflare Workers 配置 - NavHub 个人网址导航（纯静态）
+# 标准结构参考：daohangwangzhan
 name = "navhub"
 main = "src/worker.js"
-compatibility_date = "2024-11-01"
+compatibility_date = "2025-06-01"
 
-# 静态资源：整个项目目录直接托管
+# 静态资源目录（构建产物）；SPA 模式，未命中的路径回退到 index.html
 [assets]
-directory = "./"
-not_found_handling = "404"
+directory = "./dist"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
