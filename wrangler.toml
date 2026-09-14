@@ -1,0 +1,10 @@
+# Cloudflare Workers 配置 - 托管静态导航站
+# 纯静态站点，无需构建
+name = "navhub"
+main = "src/worker.js"
+compatibility_date = "2024-11-01"
+
+# 静态资源：整个项目目录直接托管
+[assets]
+directory = "./"
+not_found_handling = "404"
