@@ -1,4 +1,7 @@
- 🧭 NavHub - 个人网址导航
+---
+AIGC: "{\"AIGC\":{\"Label\":\"1\",\"ContentProducer\":\"001191340100MA8QP9WJ5400000\",\"ProduceID\":\"8dbb21f5-931c-41be-ad0c-72ea79a5ee4e:art_f759fd34c5c7fced9d2a1c6effde5a41\",\"ReservedCode1\":\"\",\"ContentPropagator\":\"001191340100MA8QP9WJ5400000\",\"PropagateID\":\"8dbb21f5-931c-41be-ad0c-72ea79a5ee4e:art_f759fd34c5c7fced9d2a1c6effde5a41\",\"ReservedCode2\":\"\"}}"
+---
+# 🧭 NavHub - 个人网址导航
 
 一个**纯前端、零后端、零费用**的个人网址导航站，Fork 到 GitHub 开启 Pages 即可使用，无需服务器、无需数据库、无需构建。
 
