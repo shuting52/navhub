@@ -1,0 +1,2570 @@
+{
+  "site": {
+    "title": "陈淑婷 · 资源收藏导航",
+    "subtitle": "全中文一站式精选实用资源与网站导航平台",
+    "layout": "top",
+    "theme": "auto",
+    "footer": "陈淑婷 · 资源收藏导航 · 数据本地保存，支持一键备份",
+    "logo": "?",
+    "notices": [
+      {
+        "text": "? 欢迎来到资源收藏导航！本站所有资源均免费收录",
+        "url": ""
+      },
+      {
+        "text": "? 新站上线：点击右上角 ⚙️ 管理 可自定义导航与背景",
+        "url": ""
+      },
+      {
+        "text": "? 收藏本站 Ctrl+D，随时快速访问",
+        "url": ""
+      },
+      {
+        "text": "? 数据保存在浏览器本地，支持导出备份迁移",
+        "url": ""
+      }
+    ],
+    "bgVideo": "",
+    "bgImage": "",
+    "bgColor": "",
+    "bgOverlay": 0.55,
+    "showClock": true,
+    "showMarquee": true
+  },
+  "categories": [
+    {
+      "name": "常用",
+      "icon": "🏠",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "看剧AI",
+              "url": "https://kanju.ai/?utm_source=WZ-buzhaole",
+              "badge": "推荐"
+            },
+            {
+              "title": "懂片帝",
+              "url": "http://dongpian17.com/?utm_source=WZYY-bzldh"
+            },
+            {
+              "title": "555影视",
+              "url": "https://wu5cn.com/?utm_source=bzl_237"
+            },
+            {
+              "title": "看片神器",
+              "url": "https://追剧.cc"
+            },
+            {
+              "title": "GPT国内直连",
+              "url": "https://oai.oooai.cc/list/#/register?inviter=XYY4ZL"
+            },
+            {
+              "title": "映像星球影视",
+              "url": "https://www.yxxq.top/?utm_source=zbl"
+            },
+            {
+              "title": "抖音游戏躺赚副业",
+              "url": "https://uuv1j2dzx2.feishu.cn/docx/XVq9dnbWBoVOlkxDiJucI9gUnFf?from=from_copylink"
+            },
+            {
+              "title": "4K电影免费下载",
+              "url": "https://4kzn.cc/"
+            },
+            {
+              "title": "AI对话绘画体",
+              "url": "https://www.lanhuohuo.cn/"
+            },
+            {
+              "title": "悬赏兼职平台",
+              "url": "https://link3.cc/fmy18"
+            },
+            {
+              "title": "游戏副业项目",
+              "url": "https://www.kdocs.cn/l/ccLZRvSNoio7"
+            },
+            {
+              "title": "学术版codex",
+              "url": "https://qiewenpaper.com/app/agent?utm_source=daott"
+            },
+            {
+              "title": "号卡和宽带",
+              "url": "https://h5.yapingkeji.com/#/pages/sales_index/my_store?mall_id=hqSBva%2FCH6l%2FTh4DC92Btg%3D%3D"
+            },
+            {
+              "title": "黑料吃瓜群",
+              "url": "http://cg.8gws.com/#bzl"
+            }
+          ]
+        }
+      ],
+      "slogan": "常用站点，一键直达"
+    },
+    {
+      "name": "影视娱乐",
+      "icon": "🔖",
+      "groups": [
+        {
+          "name": "在线看",
+          "bookmarks": [
+            {
+              "title": "看剧AI",
+              "url": "https://kanju.ai/?utm_source=WZ-buzhaole",
+              "badge": "推荐"
+            },
+            {
+              "title": "懂片帝",
+              "url": "http://dongpian17.com/?utm_source=WZYY-bzldh"
+            },
+            {
+              "title": "555影视",
+              "url": "https://wu5cn.com/?utm_source=bzl_237"
+            },
+            {
+              "title": "硬核指南",
+              "url": "https://yinghezhinan.com/"
+            },
+            {
+              "title": "千千影视",
+              "url": "https://qqys01.com/"
+            },
+            {
+              "title": "影视大全",
+              "url": "https://yingshidaquan.top/"
+            },
+            {
+              "title": "不卡顿影视",
+              "url": "https://www.yingshiso.top/"
+            },
+            {
+              "title": "酷影聚搜索",
+              "url": "https://feikuju.com/"
+            },
+            {
+              "title": "追影看片",
+              "url": "https://zhuiying.vip/"
+            },
+            {
+              "title": "奇点影视",
+              "url": "https://www.qdys1.cc/"
+            },
+            {
+              "title": "极光影视",
+              "url": "https://hellociqryx6e.com/"
+            },
+            {
+              "title": "注视影视",
+              "url": "https://gazes.site/"
+            },
+            {
+              "title": "66大片网",
+              "url": "https://www.66dpw.vip/"
+            },
+            {
+              "title": "荐片官网",
+              "url": "https://jianpian25.com/"
+            },
+            {
+              "title": "免费五五短剧",
+              "url": "https://www.duanju55.com/"
+            },
+            {
+              "title": "免费在线看球",
+              "url": "https://www.88kq.me/"
+            },
+            {
+              "title": "剧OK",
+              "url": "https://juok5.top/"
+            },
+            {
+              "title": "免VIP电视",
+              "url": "https://www.huobk.com/post/283.html"
+            },
+            {
+              "title": "搜剧AI",
+              "url": "https://souju.ai/?utm_source=WZYY-bzldh&utm_medium=shoulu"
+            },
+            {
+              "title": "4K在线",
+              "url": "https://www.bbibb.top/"
+            },
+            {
+              "title": "看片TV",
+              "url": "https://znys.top"
+            },
+            {
+              "title": "开心影视",
+              "url": "https://www.kxyy1.cc/"
+            },
+            {
+              "title": "快点播",
+              "url": "https://www.quickvod.cc/"
+            },
+            {
+              "title": "CCTV节目直播",
+              "url": "https://tv.cctv.com/"
+            },
+            {
+              "title": "免费视频解析",
+              "url": "https://xinai.rf.gd/"
+            },
+            {
+              "title": "蓝光影院",
+              "url": "https://touhaos.top/"
+            },
+            {
+              "title": "太乙电影",
+              "url": "https://ww88.taiee.xyz/"
+            },
+            {
+              "title": "耐看点播",
+              "url": "https://www.nkdb.cc/"
+            },
+            {
+              "title": "光速影视",
+              "url": "https://www.4kzaixian.top/"
+            },
+            {
+              "title": "纯净影视TV",
+              "url": "https://yinghezhinan.com/site/tvbox/"
+            }
+          ]
+        },
+        {
+          "name": "下载",
+          "bookmarks": [
+            {
+              "title": "迅雷电影天堂",
+              "url": "https://www.xl720.com/"
+            },
+            {
+              "title": "悠悠MP4",
+              "url": "https://www.uump4.cc/"
+            },
+            {
+              "title": "老电影时光",
+              "url": "https://www.ldysg.com/"
+            },
+            {
+              "title": "美剧下载",
+              "url": "https://www.mjf2020.com/"
+            },
+            {
+              "title": "爱努努",
+              "url": "https://video.ainunu.cc/"
+            },
+            {
+              "title": "SeedHub",
+              "url": "https://seedhub.pro/"
+            },
+            {
+              "title": "4K指南",
+              "url": "https://4kzn.cc/"
+            }
+          ]
+        },
+        {
+          "name": "网盘",
+          "bookmarks": [
+            {
+              "title": "盘多多",
+              "url": "https://www.pansou.asia/"
+            },
+            {
+              "title": "夸夸搜索",
+              "url": "https://www.kkso.cc/"
+            },
+            {
+              "title": "未知搜索",
+              "url": "https://projext.run/"
+            },
+            {
+              "title": "汪盘搜索",
+              "url": "https://wangpan.xin/"
+            },
+            {
+              "title": "无名搜盘",
+              "url": "https://wmxz.click/"
+            },
+            {
+              "title": "剧多多",
+              "url": "https://www.judodo.cn/"
+            },
+            {
+              "title": "肥猫追剧",
+              "url": "https://mao.souldebug.com/"
+            },
+            {
+              "title": "找盘",
+              "url": "https://v2pan.com/"
+            },
+            {
+              "title": "放空一夏",
+              "url": "https://fangkong.cc/"
+            },
+            {
+              "title": "珈珈4K网盘",
+              "url": "https://j-so.com/"
+            },
+            {
+              "title": "刀搜盘",
+              "url": "https://www.daoso.cn/",
+              "badge": "推荐"
+            }
+          ]
+        },
+        {
+          "name": "动漫",
+          "bookmarks": [
+            {
+              "title": "小柴漫画",
+              "url": "https://www.xcqmh.com/",
+              "badge": "APP"
+            },
+            {
+              "title": "轻漫岛",
+              "url": "https://www.mh123.app/",
+              "badge": "APP"
+            },
+            {
+              "title": "挽离漫画",
+              "url": "https://wanlicomic.top/",
+              "badge": "APP"
+            },
+            {
+              "title": "西瓜动漫",
+              "url": "https://www.agekk.com/"
+            },
+            {
+              "title": "漫本",
+              "url": "https://www.manben.com/"
+            },
+            {
+              "title": "蜜柑计划",
+              "url": "https://mikanani.me/"
+            },
+            {
+              "title": "菲特动漫",
+              "url": "https://fitacg.com/"
+            },
+            {
+              "title": "诸神字幕组",
+              "url": "https://subs.kamigami.org/"
+            },
+            {
+              "title": "番茶屋",
+              "url": "https://www.fanchawu.cc/"
+            },
+            {
+              "title": "动漫窝",
+              "url": "https://www.dmwo.one/"
+            },
+            {
+              "title": "TvTFun",
+              "url": "https://www.tvtfun.net/"
+            },
+            {
+              "title": "佩可爱动漫",
+              "url": "https://ani.pekolove.net/"
+            },
+            {
+              "title": "AniCh动漫",
+              "url": "https://anich.emmmm.eu.org/"
+            },
+            {
+              "title": "漫画下载",
+              "url": "https://mheee.com/"
+            },
+            {
+              "title": "AGE动漫",
+              "url": "http://www.age.tv/"
+            },
+            {
+              "title": "Anime1",
+              "url": "https://anime1.me/"
+            },
+            {
+              "title": "樱之空",
+              "url": "https://skr.skr3.cc:666/"
+            },
+            {
+              "title": "G站漫画",
+              "url": "https://godamh.com/"
+            }
+          ]
+        }
+      ],
+      "slogan": "在线看，都免费"
+    },
+    {
+      "name": "省钱助手",
+      "icon": "🔖",
+      "groups": [
+        {
+          "name": "外卖",
+          "bookmarks": [
+            {
+              "title": "美团外卖红包",
+              "url": "https://www.daott.cn/sq"
+            },
+            {
+              "title": "京东外卖红包",
+              "url": "https://www.daott.cn/sq"
+            },
+            {
+              "title": "饿了么红包",
+              "url": "https://www.daott.cn/sq"
+            },
+            {
+              "title": "肯德基5折起",
+              "url": "https://www.daott.cn/sq"
+            },
+            {
+              "title": "华莱士5折起",
+              "url": "https://www.daott.cn/sq"
+            },
+            {
+              "title": "必胜客5折起",
+              "url": "https://www.daott.cn/sq"
+            },
+            {
+              "title": "瑞幸咖啡5折起",
+              "url": "https://www.daott.cn/sq"
+            },
+            {
+              "title": "库迪咖啡5折起",
+              "url": "https://www.daott.cn/sq"
+            },
+            {
+              "title": "星巴克5折起",
+              "url": "https://www.daott.cn/sq"
+            }
+          ]
+        },
+        {
+          "name": "出行",
+          "bookmarks": [
+            {
+              "title": "滴滴打车红包",
+              "url": "https://www.daott.cn/sq",
+              "badge": "NEW"
+            },
+            {
+              "title": "花小猪打车红包",
+              "url": "https://www.daott.cn/sq",
+              "badge": "NEW"
+            }
+          ]
+        },
+        {
+          "name": "生活",
+          "bookmarks": [
+            {
+              "title": "平台会员卡券",
+              "url": "https://kurl04.cn/twUyGt"
+            },
+            {
+              "title": "特价景点门票",
+              "url": "https://www.daott.cn/sq"
+            },
+            {
+              "title": "电影票8折起",
+              "url": "https://www.daott.cn/sq"
+            },
+            {
+              "title": "超值流量卡",
+              "url": "https://ka.huojukj.com/?u=357159"
+            },
+            {
+              "title": "特价寄快递",
+              "url": "https://www.daott.cn/sq"
+            }
+          ]
+        }
+      ],
+      "slogan": "花小钱，省大钱。"
+    },
+    {
+      "name": "资源网站",
+      "icon": "🔖",
+      "groups": [
+        {
+          "name": "软件",
+          "bookmarks": [
+            {
+              "title": "KX音频驱动",
+              "url": "https://www.zgjdh.top/"
+            },
+            {
+              "title": "TeaTimes",
+              "url": "https://t.hsya.top/"
+            },
+            {
+              "title": "啥好玩",
+              "url": "https://xn--7zr28gkx3a.cn/"
+            },
+            {
+              "title": "陌离君软件",
+              "url": "https://www.molijun.com/"
+            },
+            {
+              "title": "设计软件下载",
+              "url": "https://www.yuque.com/doolook/qkvv8s/pcfivg13nh263xaz?singleDoc="
+            },
+            {
+              "title": "独特吧",
+              "url": "https://www.dute8.cn/"
+            },
+            {
+              "title": "刀贱贱博客",
+              "url": "https://www.huobk.com/"
+            },
+            {
+              "title": "mefcl软件",
+              "url": "https://www.mefcl.com/"
+            },
+            {
+              "title": "佛系软件",
+              "url": "https://foxirj.com/"
+            },
+            {
+              "title": "MSDN",
+              "url": "https://msdn.itellyou.cn/"
+            },
+            {
+              "title": "软仓",
+              "url": "https://www.ruancang.net/"
+            },
+            {
+              "title": "小K网",
+              "url": "https://www.xkwo.com/"
+            },
+            {
+              "title": "浏览器插件",
+              "url": "https://www.crxsoso.com/"
+            },
+            {
+              "title": "小刀娱乐网",
+              "url": "https://www.x6d.com/"
+            },
+            {
+              "title": "鸭先知资源网",
+              "url": "https://www.yxzhi.com/"
+            },
+            {
+              "title": "流量变现平台",
+              "url": "https://xcn67vsmj46s.feishu.cn/wiki/C8VLwMeYEiHX15kggFjcN0VcnHc?from=from_copylink"
+            },
+            {
+              "title": "吾爱破解",
+              "url": "https://www.52pojie.cn/",
+              "badge": "推荐"
+            },
+            {
+              "title": "乐于分享网",
+              "url": "https://www.fffxx.com/"
+            },
+            {
+              "title": "果核剥壳",
+              "url": "https://www.ghxi.com/",
+              "badge": "推荐"
+            }
+          ]
+        },
+        {
+          "name": "壁纸",
+          "bookmarks": [
+            {
+              "title": "壁纸吧",
+              "url": "https://www.bizhib.com/"
+            },
+            {
+              "title": "动漫图片和壁纸",
+              "url": "https://anime-pictures.net/"
+            },
+            {
+              "title": "壁纸汇",
+              "url": "https://www.bizhihui.com/"
+            },
+            {
+              "title": "高清壁纸大全",
+              "url": "https://www.3gbizhi.com/"
+            },
+            {
+              "title": "3G桌面壁纸",
+              "url": "https://desk.3gbizhi.com/"
+            },
+            {
+              "title": "免费4K壁纸",
+              "url": "https://haowallpaper.com/"
+            },
+            {
+              "title": "日夸壁纸",
+              "url": "https://www.rikua.com/"
+            }
+          ]
+        }
+      ],
+      "slogan": "学习技术找资源，从这里开始。"
+    },
+    {
+      "name": "音乐听歌",
+      "icon": "🔖",
+      "groups": [
+        {
+          "name": "在线音乐",
+          "bookmarks": [
+            {
+              "title": "米兔音乐",
+              "url": "https://www.qqmp3.vip/"
+            },
+            {
+              "title": "音乐魔石",
+              "url": "https://www.pfx9.top/"
+            },
+            {
+              "title": "开开无损音乐",
+              "url": "https://www.kkws.cc/"
+            },
+            {
+              "title": "糖果无损音乐",
+              "url": "https://www.tgws.cc/"
+            },
+            {
+              "title": "无忧音乐网",
+              "url": "https://www.wymp3.com"
+            },
+            {
+              "title": "24bit无损音乐网",
+              "url": "https://www.24bit.net/"
+            },
+            {
+              "title": "5song无损音乐网",
+              "url": "https://www.5song.xyz/"
+            },
+            {
+              "title": "极光无损音乐",
+              "url": "https://www.jgwav.cc/"
+            },
+            {
+              "title": "歌曲客",
+              "url": "https://www.gequke.com/"
+            },
+            {
+              "title": "音乐免费下载",
+              "url": "https://yyfang.top/"
+            },
+            {
+              "title": "凤梨音乐",
+              "url": "https://www.flmp3.pro/"
+            },
+            {
+              "title": "溜声音乐下载",
+              "url": "http://www.6sing.top/"
+            },
+            {
+              "title": "鲸音无损音乐",
+              "url": "https://www.jywav.com/"
+            },
+            {
+              "title": "歌曲宝",
+              "url": "https://www.gequbao.com/"
+            },
+            {
+              "title": "23ape.net",
+              "url": "http://www.23ape.net/"
+            },
+            {
+              "title": "音乐免费下载",
+              "url": "https://www.livepoo.cn/"
+            },
+            {
+              "title": "放屁网",
+              "url": "https://www.fangpi.net/"
+            },
+            {
+              "title": "歌曲海",
+              "url": "https://www.gequhai.com/"
+            },
+            {
+              "title": "泡泡无损音乐",
+              "url": "https://www.ppwav.cc/"
+            },
+            {
+              "title": "音微网",
+              "url": "https://www.yinwe.com/"
+            },
+            {
+              "title": "熊猫音乐",
+              "url": "https://xmwav.net/"
+            },
+            {
+              "title": "GD音乐台",
+              "url": "https://music.gdstudio.org/"
+            },
+            {
+              "title": "百灵无损音乐",
+              "url": "https://www.blmp3.cn/"
+            },
+            {
+              "title": "洛雪音乐",
+              "url": "https://www.huobk.com/post/197.html",
+              "badge": "推荐"
+            }
+          ]
+        },
+        {
+          "name": "电台",
+          "bookmarks": [
+            {
+              "title": "瑞丢网络电台",
+              "url": "https://radio5.cn/"
+            },
+            {
+              "title": "思奥FM电台",
+              "url": "https://sao.fm/"
+            }
+          ]
+        }
+      ],
+      "slogan": "音乐通通免费！"
+    },
+    {
+      "name": "小说阅读",
+      "icon": "🔖",
+      "groups": [
+        {
+          "name": "小说",
+          "bookmarks": [
+            {
+              "title": "悦读",
+              "url": "https://ebook.hnyuedu.com/",
+              "badge": "APP"
+            },
+            {
+              "title": "雨鹿阅读",
+              "url": "https://xsxsapp.com/ylyd/",
+              "badge": "APP"
+            },
+            {
+              "title": "笔趣阁纯净版",
+              "url": "https://www.bqgcjb.com/",
+              "badge": "APP"
+            },
+            {
+              "title": "无限小说网",
+              "url": "https://wuxianbook.com/"
+            },
+            {
+              "title": "鸭趣免费听书",
+              "url": "https://www.525566.com/app/112571.htm",
+              "badge": "APP"
+            },
+            {
+              "title": "金庸武侠网",
+              "url": "https://www.jinyongwx.com/",
+              "badge": "推荐"
+            },
+            {
+              "title": "txt小说网",
+              "url": "https://www.txtxiaoshuo.com/"
+            },
+            {
+              "title": "万本小说网",
+              "url": "https://www.10000txt.com/"
+            },
+            {
+              "title": "哔哩轻小说",
+              "url": "https://www.linovelib.com/"
+            },
+            {
+              "title": "鬼话连篇网",
+              "url": "https://guihualianpian.cn/"
+            },
+            {
+              "title": "八零电子书",
+              "url": "https://www.txt80.cc/"
+            },
+            {
+              "title": "盐选免费阅读",
+              "url": "https://onehu.xyz/#google_vignette"
+            },
+            {
+              "title": "幻梦轻小说",
+              "url": "https://www.huanmengacg.com/"
+            },
+            {
+              "title": "网络小说搜索",
+              "url": "https://www.owlook.com.cn/"
+            },
+            {
+              "title": "盐选",
+              "url": "https://www.yanxuan.org/"
+            },
+            {
+              "title": "Z-Library.",
+              "url": "https://zh.101sat.ru/"
+            },
+            {
+              "title": "电子书之家",
+              "url": "https://honeypdf.com/"
+            },
+            {
+              "title": "鸠摩搜索",
+              "url": "https://www.jiumodiary.com/"
+            },
+            {
+              "title": "识典古籍",
+              "url": "https://www.shidianguji.com/"
+            },
+            {
+              "title": "书籍知识库",
+              "url": "https://www.zhishikoo.com/"
+            },
+            {
+              "title": "小力盘",
+              "url": "https://www.xiaolipan.com/index.html"
+            }
+          ]
+        },
+        {
+          "name": "听书",
+          "bookmarks": [
+            {
+              "title": "蜻蜓有声小说",
+              "url": "https://www.qtfm.cn/"
+            },
+            {
+              "title": "SaltyLeo书架",
+              "url": "https://tstrs.me/verify_entry?redirect=/?"
+            },
+            {
+              "title": "听友FM",
+              "url": "https://tingyou.fm/"
+            },
+            {
+              "title": "275听书网",
+              "url": "https://m.i275.com/"
+            }
+          ]
+        },
+        {
+          "name": "报刊",
+          "bookmarks": [
+            {
+              "title": "时光图书馆",
+              "url": "https://atimebook.com/"
+            },
+            {
+              "title": "读者阁",
+              "url": "https://duzhege.cn/"
+            },
+            {
+              "title": "53BK报刊网",
+              "url": "http://www.53bk.com/"
+            },
+            {
+              "title": "老画报网",
+              "url": "http://www.laohuabao.com/"
+            },
+            {
+              "title": "JOJO看报",
+              "url": "https://reader.jojokanbao.cn/"
+            }
+          ]
+        }
+      ],
+      "slogan": "免米小说网站或软件"
+    },
+    {
+      "name": "游戏资源",
+      "icon": "🔖",
+      "groups": [
+        {
+          "name": "游戏下载",
+          "bookmarks": [
+            {
+              "title": "霓虹游戏港",
+              "url": "https://www.sogay.xyz/"
+            },
+            {
+              "title": "趣寻野",
+              "url": "https://www.qxunye.com/"
+            },
+            {
+              "title": "游仓酷",
+              "url": "https://quwan521.com/"
+            },
+            {
+              "title": "GameFreer资源网",
+              "url": "https://www.gamefreer.com/"
+            },
+            {
+              "title": "梨子乐游戏",
+              "url": "https://lzlgo.com/"
+            },
+            {
+              "title": "愤怒的小鸟",
+              "url": "https://pan.quark.cn/s/451f87d78780"
+            },
+            {
+              "title": "掌游网",
+              "url": "https://www.switchxiazai.com/"
+            },
+            {
+              "title": "Game Share",
+              "url": "https://www.gameshare.cc/"
+            },
+            {
+              "title": "王国保卫战",
+              "url": "https://pan.quark.cn/s/6eff5bbffaa9"
+            },
+            {
+              "title": "XDGAME公益版",
+              "url": "https://xdgame.io/"
+            },
+            {
+              "title": "哈基米游戏",
+              "url": "https://www.hajimigames.com/"
+            },
+            {
+              "title": "奥德彪计划",
+              "url": "https://2468c.com/"
+            },
+            {
+              "title": "小叽资源",
+              "url": "https://steamzg.com/"
+            },
+            {
+              "title": "小鱼资源库",
+              "url": "https://www.yzyk.xyz/"
+            },
+            {
+              "title": "老机库",
+              "url": "https://laojiku.com/"
+            },
+            {
+              "title": "FC图库",
+              "url": "https://fcpic.nesbbs.com/"
+            },
+            {
+              "title": "Gamer520",
+              "url": "https://www.gamer520.com/"
+            },
+            {
+              "title": "小妖怪分享",
+              "url": "https://www.xyg688.com/"
+            },
+            {
+              "title": "flysheep资源避难所",
+              "url": "https://www.flysheep6.com/"
+            },
+            {
+              "title": "机地论坛",
+              "url": "https://www.jidiyouxi.com/"
+            },
+            {
+              "title": "de吴线游戏",
+              "url": "https://dewuxian.com/"
+            },
+            {
+              "title": "植物大战僵尸合集",
+              "url": "https://pan.quark.cn/s/3f82680fcb81"
+            },
+            {
+              "title": "红色警戒2&尤里",
+              "url": "https://pan.quark.cn/s/2f1d9bd396ca"
+            },
+            {
+              "title": "魔兽v1.27a",
+              "url": "https://pan.quark.cn/s/1162138166e7"
+            }
+          ]
+        },
+        {
+          "name": "在线游戏",
+          "bookmarks": [
+            {
+              "title": "XP怀旧模拟器 · 2005",
+              "url": "https://windows-xp.kimi.site/"
+            },
+            {
+              "title": "在线罪恶都市",
+              "url": "https://better6666.github.io/-better/"
+            },
+            {
+              "title": "在线玩CS",
+              "url": "https://vpn.zongsang.com/"
+            },
+            {
+              "title": "暴走微游戏",
+              "url": "https://game.ioxapp.com/"
+            },
+            {
+              "title": "在线小霸王",
+              "url": "https://www.yikm.net/"
+            },
+            {
+              "title": "在线玩红警",
+              "url": "https://game.ra2web.cn/"
+            },
+            {
+              "title": "在线小鸟",
+              "url": "https://flappybird.io/"
+            },
+            {
+              "title": "在线三国杀",
+              "url": "https://web.sanguosha.com/login/x/index"
+            },
+            {
+              "title": "Poki在线游戏",
+              "url": "https://poki.com/"
+            },
+            {
+              "title": "我的世界网页版",
+              "url": "https://mcjs.link/"
+            },
+            {
+              "title": "免费线上游戏",
+              "url": "https://zh.y8.com/"
+            },
+            {
+              "title": "在线玩模拟器游戏",
+              "url": "https://www.emu666.com/"
+            },
+            {
+              "title": "免费网页小游戏",
+              "url": "https://game.haiyong.site/"
+            },
+            {
+              "title": "在线复古游戏",
+              "url": "https://classicjoy.games/"
+            }
+          ]
+        }
+      ],
+      "slogan": "对！都免米！"
+    },
+    {
+      "name": "好用工具",
+      "icon": "🔖",
+      "groups": [
+        {
+          "name": "其他",
+          "bookmarks": [
+            {
+              "title": "数据恢复软件",
+              "url": "https://www.x6d.com/daowangsousuo?q=%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D&typeid=0"
+            },
+            {
+              "title": "短链接生成",
+              "url": "https://www.urlc.cn/"
+            },
+            {
+              "title": "微软AI语音",
+              "url": "https://www.text-to-speech.cn/"
+            },
+            {
+              "title": "徽章生成器",
+              "url": "https://stickerbaker.com/"
+            }
+          ]
+        },
+        {
+          "name": "AI工具",
+          "bookmarks": [
+            {
+              "title": "AI视频创作",
+              "url": "https://libtv.cgref.cn/s/41evpm1ev8",
+              "badge": "NEW"
+            },
+            {
+              "title": "桌面AI助理",
+              "url": "https://loomy.xunfei.cn/?cg_click_id=69afd3d7-595a-4f0a-9e63-e18ae88aea1d&cgv=5ln1r7gkrw&utm=cg"
+            },
+            {
+              "title": "蛙蛙AI漫剧",
+              "url": "https://wawawriter.com/app/video-create/?cg_click_id=1f207aaf-20e8-4394-abd0-f8afcefb6d7b&cgv=zdkj798k1r&utm=cg&utm_source=aiweb"
+            },
+            {
+              "title": "讯飞绘文",
+              "url": "https://turbodesk.xfyun.cn/?cg_click_id=dd3aa65e-fb83-464e-ae8e-07e5fa6cb8b4&cgv=rpe30xje05&channelid=cakegrowth&utm=cg"
+            },
+            {
+              "title": "蛙蛙AI写作",
+              "url": "https://wawawriter.com/app/?cg_click_id=445623a1-5273-40f2-9df7-4debee335c69&cgv=2znrom9nr7&utm=cg&utm_source=aiweb"
+            },
+            {
+              "title": "AI简历生成",
+              "url": "https://upcv.tech/?utm=cg&cgv=jgemo8jnmy"
+            },
+            {
+              "title": "白嫖阿里模型",
+              "url": "https://maas.xfyun.cn/modelSquare?ch=maas-cg-kol-104"
+            },
+            {
+              "title": "AI编程",
+              "url": "https://atoms.cgref.cn/s/2znrwg6kr7"
+            },
+            {
+              "title": "音述AI音乐",
+              "url": "https://www.yinshu.me/?ad_channel=cakegrowth&utm=cg&cgv=5ln1q18erw"
+            },
+            {
+              "title": "全能AI创作",
+              "url": "https://updream.cgref.cn/s/ogew004kp2"
+            },
+            {
+              "title": "AI创作视频",
+              "url": "https://www.updream.cn/?bsource=xinyan_bi"
+            },
+            {
+              "title": "AI短剧创作",
+              "url": "https://seko.sensetime.com/?cg_click_id=035e6160-ae17-4e55-a06d-72bf050b42ef&cgv=dqnd815e2z&utm=cg"
+            },
+            {
+              "title": "超级简历",
+              "url": "https://www.wondercv.com/?utm=cg&cgv=dqndp7on2z"
+            },
+            {
+              "title": "一站式AI设计",
+              "url": "https://www.lovart.art/?cg_click_id=6bacf6ad-6c20-47dd-b6b4-5cdada3bd2d3&cgv=1oe700mn23&sourceid=999998&utm=cg"
+            }
+          ]
+        },
+        {
+          "name": "在线工具",
+          "bookmarks": [
+            {
+              "title": "PDF24 Tools",
+              "url": "https://tools.pdf24.org/zh/"
+            },
+            {
+              "title": "文字转语音",
+              "url": "https://fuym.cn/"
+            },
+            {
+              "title": "免费去水印",
+              "url": "https://www.hellotik.app/"
+            },
+            {
+              "title": "文叔叔-传文件",
+              "url": "https://www.wenshushu.cn/"
+            },
+            {
+              "title": "UC文件传输助手",
+              "url": "https://fast.uc.cn/"
+            },
+            {
+              "title": "局域网传文件",
+              "url": "https://localsend.org/#/"
+            },
+            {
+              "title": "OpenClaw龙虾",
+              "url": "https://agent.xfyun.cn/astron-claw/?utm=cg&cgv=9we2rqjkgo"
+            },
+            {
+              "title": "在线PS",
+              "url": "https://zaixianps.net/"
+            },
+            {
+              "title": "PS精简版",
+              "url": "https://www.123pan.com/s/AYG9-HtVyH.html"
+            },
+            {
+              "title": "奇迹秀工具箱",
+              "url": "https://www.qijishow.com/down/index.html"
+            },
+            {
+              "title": "在线一键抠图",
+              "url": "https://www.remove.bg/zh"
+            },
+            {
+              "title": "Iconfont字体库",
+              "url": "https://www.iconfont.cn/fonts/index?type=3"
+            },
+            {
+              "title": "免费商用字体",
+              "url": "https://www.maoken.com/"
+            },
+            {
+              "title": "100Font",
+              "url": "https://www.100font.com/"
+            },
+            {
+              "title": "PDF在线工具",
+              "url": "https://www.ilovepdf.com/zh-cn"
+            },
+            {
+              "title": "草料二维码",
+              "url": "https://cli.im/"
+            },
+            {
+              "title": "二维码解析",
+              "url": "https://cli.im/deqr/"
+            },
+            {
+              "title": "临时邮箱",
+              "url": "https://www.linshi-email.com/"
+            },
+            {
+              "title": "字体秀",
+              "url": "https://www.fontshow.com/zh"
+            },
+            {
+              "title": "第一PPT",
+              "url": "https://www.1ppt.com/"
+            },
+            {
+              "title": "51PPT",
+              "url": "https://www.51pptmoban.com/"
+            },
+            {
+              "title": "指尖工具箱",
+              "url": "http://getquicker.net/"
+            },
+            {
+              "title": "格式转换器",
+              "url": "https://fletime.lanzoux.com/iSh4Bk6cbod"
+            },
+            {
+              "title": "马可菠萝",
+              "url": "https://www.macbl.com/"
+            },
+            {
+              "title": "IDM 下载器",
+              "url": "https://www.x6d.com/daowangsousuo?q=idm"
+            },
+            {
+              "title": "帮小忙",
+              "url": "https://tool.browser.qq.com/"
+            },
+            {
+              "title": "数据换算工具",
+              "url": "https://tool.browser.qq.com/category/data"
+            },
+            {
+              "title": "生活娱乐工具",
+              "url": "https://tool.browser.qq.com/category/life"
+            },
+            {
+              "title": "零度在线工具箱",
+              "url": "https://www.dbzip.com/",
+              "badge": "NEW"
+            },
+            {
+              "title": "文案提取工具",
+              "url": "https://www.xiaolvtool.com/"
+            },
+            {
+              "title": "免费logo制作",
+              "url": "https://www.uugai.com/"
+            },
+            {
+              "title": "啪唧AI绘画",
+              "url": "https://www.pajiai.com/"
+            },
+            {
+              "title": "全球物流查询",
+              "url": "https://www.17track.net/zh-cn"
+            },
+            {
+              "title": "日历清单",
+              "url": "http://www.xdiarys.com/"
+            },
+            {
+              "title": "在线录屏",
+              "url": "https://tool.browser.qq.com/screen_record.html"
+            },
+            {
+              "title": "deepseek",
+              "url": "https://chat.deepseek.com/",
+              "badge": "推荐"
+            }
+          ]
+        }
+      ],
+      "slogan": "好用工具，效率翻倍"
+    },
+    {
+      "name": "装机必备",
+      "icon": "🔖",
+      "groups": [
+        {
+          "name": "装机工具",
+          "bookmarks": [
+            {
+              "title": "广告弹窗拦截",
+              "url": "https://djjbk.lanzouv.com/ioDcA47kwtsb"
+            },
+            {
+              "title": "驱动总裁绿色版",
+              "url": "https://xiaodao.lanzout.com/ivR1v2tvmj0j",
+              "badge": "NEW"
+            },
+            {
+              "title": "U盘修复合集",
+              "url": "https://pan.quark.cn/s/58bc34886cd2"
+            },
+            {
+              "title": "鼠标测试工具",
+              "url": "https://www.mousetester.cn/"
+            },
+            {
+              "title": "关闭杀毒更新",
+              "url": "https://pan.quark.cn/s/abc7a504ef13"
+            },
+            {
+              "title": "FirPE",
+              "url": "https://www.firpe.cn/"
+            },
+            {
+              "title": "SysRi一键重装",
+              "url": "https://sysri.cn/",
+              "badge": "NEW"
+            },
+            {
+              "title": "硬盘分区助手",
+              "url": "https://www.disktool.cn/download.html"
+            },
+            {
+              "title": "Win10装机",
+              "url": "https://shimo.im/docs/Y3W3KhJgKgJqjHRJ/read"
+            },
+            {
+              "title": "保姆级教程",
+              "url": "https://www.bilibili.com/video/BV1DJ411D79y"
+            },
+            {
+              "title": "图吧工具箱",
+              "url": "http://www.tbtool.cn/",
+              "badge": "推荐"
+            },
+            {
+              "title": "微PE工具箱",
+              "url": "https://www.wepe.com.cn/download.html"
+            },
+            {
+              "title": "精简版系统",
+              "url": "https://www.huobk.com/post/104.html"
+            },
+            {
+              "title": "Intel 驱动",
+              "url": "https://downloadcenter.intel.com/zh-cn/"
+            },
+            {
+              "title": "Nvidia 驱动",
+              "url": "https://www.nvidia.cn/Download/index.aspx"
+            },
+            {
+              "title": "AMD 驱动",
+              "url": "https://www.amd.com/zh-hans/support"
+            },
+            {
+              "title": "微星小飞机",
+              "url": "https://www.bilibili.com/video/BV1qq4y1e7bZ"
+            },
+            {
+              "title": "激活工具",
+              "url": "https://xiaodao.lanzoux.com/b0dpyp1sh"
+            },
+            {
+              "title": "显示器帧率",
+              "url": "https://testufo.com/"
+            },
+            {
+              "title": "显卡天梯榜",
+              "url": "https://gpu.exprank.com/"
+            },
+            {
+              "title": "CPU天梯榜",
+              "url": "https://cpu.exprank.com/"
+            },
+            {
+              "title": "电源天梯榜",
+              "url": "https://power.exprank.com/"
+            },
+            {
+              "title": "MSDN",
+              "url": "https://msdn.itellyou.cn/"
+            },
+            {
+              "title": "HelloWindows",
+              "url": "https://hellowindows.cn/?ref=iiice.cn"
+            },
+            {
+              "title": "USB启动盘",
+              "url": "http://rufus.ie/zh/"
+            },
+            {
+              "title": "Dism++",
+              "url": "https://wwi.lanzoup.com/it28P03igore"
+            },
+            {
+              "title": "在线键盘测试",
+              "url": "https://www.zfrontier.com/lab/keyboardTester"
+            },
+            {
+              "title": "手柄测试",
+              "url": "https://gobing.cn/experiment/key"
+            },
+            {
+              "title": "鲁大师精简版",
+              "url": "https://xiaodao.lanzout.com/b032dearri"
+            },
+            {
+              "title": "游戏加加",
+              "url": "https://gamepp.com/download.html"
+            },
+            {
+              "title": "快捷方式管理",
+              "url": "https://github.com/1357310795/MyComputerManager"
+            },
+            {
+              "title": "测网速",
+              "url": "https://test.ustc.edu.cn/"
+            }
+          ]
+        },
+        {
+          "name": "常用软件",
+          "bookmarks": [
+            {
+              "title": "QQ",
+              "url": "https://im.qq.com/pcqq"
+            },
+            {
+              "title": "系统运维工具",
+              "url": "https://www.huobk.com/post/112.html"
+            },
+            {
+              "title": "微信",
+              "url": "https://pc.weixin.qq.com/"
+            },
+            {
+              "title": "飞书",
+              "url": "https://www.feishu.cn/download"
+            },
+            {
+              "title": "钉钉",
+              "url": "https://page.dingtalk.com/wow/z/dingtalk/default/dddownload-index"
+            },
+            {
+              "title": "网易云音乐",
+              "url": "https://music.163.com/#/download"
+            },
+            {
+              "title": "QQ音乐",
+              "url": "https://y.qq.com/download/download.html"
+            },
+            {
+              "title": "酷狗音乐",
+              "url": "https://download.kugou.com/"
+            },
+            {
+              "title": "uTools",
+              "url": "https://u.tools/"
+            },
+            {
+              "title": "软件卸载",
+              "url": "https://xiaodao.lanzout.com/b032djzpnc"
+            },
+            {
+              "title": "BandiZip",
+              "url": "https://xiaodao.lanzoui.com/b0dpv2ffc"
+            },
+            {
+              "title": "7-Zip",
+              "url": "https://www.7-zip.org/"
+            },
+            {
+              "title": "WPS",
+              "url": "https://www.x6d.com/daowangsousuo?q=wps&typeid=0",
+              "badge": "推荐"
+            },
+            {
+              "title": "Office",
+              "url": "https://xiaodao.lanzoux.com/b0dq63luf"
+            },
+            {
+              "title": "网易UU远程",
+              "url": "https://uuyc.163.com/"
+            },
+            {
+              "title": "汽水音乐",
+              "url": "https://music.douyin.com/qishui"
+            },
+            {
+              "title": "火绒安全",
+              "url": "https://www.huorong.cn/",
+              "badge": "推荐"
+            },
+            {
+              "title": "360驱动",
+              "url": "https://xiaodao.lanzout.com/b0dpqmesj"
+            },
+            {
+              "title": "驱动总裁",
+              "url": "https://www.huobk.com/post/183.html"
+            },
+            {
+              "title": "PotPlayer",
+              "url": "https://xiaodao.lanzoux.com/b0dpu58zc"
+            },
+            {
+              "title": "迅雷12",
+              "url": "https://pc.xunlei.com/"
+            },
+            {
+              "title": "搜狗输入法",
+              "url": "https://pinyin.sogou.com/"
+            },
+            {
+              "title": "微信输入法",
+              "url": "https://z.weixin.qq.com/"
+            },
+            {
+              "title": "Everything",
+              "url": "https://www.voidtools.com/zh-cn/"
+            },
+            {
+              "title": "Steam",
+              "url": "https://store.steampowered.com/about/",
+              "badge": "推荐"
+            },
+            {
+              "title": "WeGame",
+              "url": "https://www.wegame.com.cn/client/"
+            },
+            {
+              "title": "Epic",
+              "url": "https://www.epicgames.com/store/zh-CN/"
+            },
+            {
+              "title": "KK对战平台",
+              "url": "https://www.reckfeng.com/"
+            },
+            {
+              "title": "Edge",
+              "url": "https://www.microsoft.com/zh-cn/edge/download?form=MA13FJ"
+            },
+            {
+              "title": "谷歌浏览器",
+              "url": "https://www.google.cn/intl/zh-CN/chrome/"
+            },
+            {
+              "title": "火狐浏览器",
+              "url": "https://www.firefox.com/zh-CN/?utm_campaign=SET_DEFAULT_BROWSER"
+            },
+            {
+              "title": "夸克PC浏览器",
+              "url": "https://b.quark.cn/apps/qkhomepage_twofoufeb/routes/model?entry=other_xinyanpckk_cpa7&ch=other_xinyanpckk_cpa7&image=search&dp="
+            }
+          ]
+        }
+      ],
+      "slogan": "装机一条龙，驱动全都有"
+    },
+    {
+      "name": "探索世界",
+      "icon": "🔖",
+      "groups": [
+        {
+          "name": "实用导航",
+          "bookmarks": [
+            {
+              "title": "观影导航",
+              "url": "https://www.qhdh.top/"
+            },
+            {
+              "title": "宅男导航",
+              "url": "https://www.zhainandh.com/"
+            },
+            {
+              "title": "看片导航",
+              "url": "https://www.kpnav.com/"
+            },
+            {
+              "title": "汇乐导航",
+              "url": "https://huile.vip/"
+            },
+            {
+              "title": "宅男导航",
+              "url": "https://www.enabcd.cn/"
+            },
+            {
+              "title": "资源导航",
+              "url": "https://vb1.cn/"
+            },
+            {
+              "title": "聚资源导航",
+              "url": "https://juzyw.com/"
+            },
+            {
+              "title": "摸鱼导航",
+              "url": "https://www.moyudh.com/",
+              "badge": "NEW"
+            },
+            {
+              "title": "蛙蛙导航",
+              "url": "https://www.wawadh.cn/"
+            }
+          ]
+        },
+        {
+          "name": "趣站",
+          "bookmarks": [
+            {
+              "title": "爱折纸网",
+              "url": "https://www.aizhezhi.com/index.html"
+            },
+            {
+              "title": "炒饭小测试",
+              "url": "https://xiaoce.fun/"
+            },
+            {
+              "title": "分歧终端机",
+              "url": "https://pingli.app/"
+            },
+            {
+              "title": "超级借口",
+              "url": "https://superexcuse.com/"
+            },
+            {
+              "title": "信任的进化",
+              "url": "https://dccxi.com/"
+            },
+            {
+              "title": "emoji大全",
+              "url": "https://www.emojiall.com/"
+            },
+            {
+              "title": "在线放烟花",
+              "url": "http://fangyanhua.top/"
+            },
+            {
+              "title": "梗图生成器",
+              "url": "https://x.magiconch.com/"
+            },
+            {
+              "title": "在线地址生成",
+              "url": "https://ratenn.com/"
+            },
+            {
+              "title": "疯狂星期四",
+              "url": "https://www.crazy-thursday.com/"
+            },
+            {
+              "title": "在线转盘工具",
+              "url": "https://wheelpage.com/"
+            },
+            {
+              "title": "电子金鱼",
+              "url": "https://goldfishies.com/"
+            },
+            {
+              "title": "指尖陀螺",
+              "url": "https://ffffidget.com/"
+            },
+            {
+              "title": "捏泡泡",
+              "url": "https://bubblespop.netlify.app/"
+            },
+            {
+              "title": "天空有多高",
+              "url": "https://www.secaibi.com/howbigisspace/"
+            },
+            {
+              "title": "全景故宫",
+              "url": "https://pano.dpm.org.cn/#/"
+            }
+          ]
+        },
+        {
+          "name": "节点",
+          "bookmarks": [
+            {
+              "title": "gpt车队",
+              "url": "https://www.xyhelper.com.cn/"
+            },
+            {
+              "title": "fastsocks免费节点",
+              "url": "https://fastsocks.github.io/"
+            },
+            {
+              "title": "玩转节点",
+              "url": "https://wanzhuanmi.com/"
+            },
+            {
+              "title": "StairNode",
+              "url": "https://www.stairnode.com/"
+            },
+            {
+              "title": "v2rayShare",
+              "url": "https://v2rayshare.net/"
+            },
+            {
+              "title": "免费clash节点",
+              "url": "https://clashgithub.com/"
+            },
+            {
+              "title": "Clash免费代理",
+              "url": "https://github.com/PuddinCat/BestClash"
+            }
+          ]
+        },
+        {
+          "name": "开发",
+          "bookmarks": [
+            {
+              "title": "Trae",
+              "url": "https://www.trae.cn",
+              "badge": "推荐"
+            },
+            {
+              "title": "码上飞",
+              "url": "https://codeflying.cgref.cn/s/rpexy24k90"
+            },
+            {
+              "title": "触摸云",
+              "url": "https://cmzi.com/"
+            },
+            {
+              "title": "VsCode",
+              "url": "https://code.visualstudio.com/docs/?dv=win64user"
+            },
+            {
+              "title": "Visual Studio",
+              "url": "https://visualstudio.microsoft.com/zh-hans/downloads/"
+            },
+            {
+              "title": "HBuilderX",
+              "url": "https://www.dcloud.io/hbuilderx.html"
+            },
+            {
+              "title": "IDEA",
+              "url": "https://www.jetbrains.com/idea/download/#section=windows"
+            },
+            {
+              "title": "小程序开发",
+              "url": "https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html"
+            },
+            {
+              "title": "Nvm",
+              "url": "https://www.jianshu.com/p/a287bcf65943"
+            },
+            {
+              "title": "Git",
+              "url": "https://www.runoob.com/git/git-install-setup.html"
+            },
+            {
+              "title": "Sourcetree",
+              "url": "https://www.sourcetreeapp.com/"
+            },
+            {
+              "title": "Git小乌龟",
+              "url": "https://tortoisegit.org/"
+            },
+            {
+              "title": "Filezilla",
+              "url": "https://www.filezilla.cn/download"
+            },
+            {
+              "title": "Postman",
+              "url": "https://www.postman.com/downloads/"
+            },
+            {
+              "title": "ApiPost",
+              "url": "https://www.apipost.cn/"
+            },
+            {
+              "title": "Apifox",
+              "url": "https://apifox.com/"
+            },
+            {
+              "title": "Node.js",
+              "url": "http://nodejs.cn/download/"
+            },
+            {
+              "title": "Navicat",
+              "url": "https://www.123pan.com/s/AYG9-deVyH"
+            },
+            {
+              "title": "SQL Server",
+              "url": "https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads"
+            },
+            {
+              "title": "MySQL",
+              "url": "https://dev.mysql.com/downloads/mysql/",
+              "badge": "推荐"
+            },
+            {
+              "title": "MongoDB",
+              "url": "https://www.mongodb.com/try/download/community"
+            },
+            {
+              "title": "Gitee",
+              "url": "https://gitee.com/",
+              "badge": "推荐"
+            },
+            {
+              "title": "Watt Toolkit",
+              "url": "https://steampp.net/"
+            },
+            {
+              "title": "Python",
+              "url": "https://www.python.org/downloads/"
+            },
+            {
+              "title": "Anaconda",
+              "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/"
+            },
+            {
+              "title": "网页托管",
+              "url": "https://host.retiehe.com/"
+            },
+            {
+              "title": "小熊猫C++",
+              "url": "https://royqh.net/redpandacpp/"
+            },
+            {
+              "title": "Dev-C++",
+              "url": "https://bloodshed-dev-c.en.softonic.com/"
+            },
+            {
+              "title": "wxDev-C",
+              "url": "http://wxdsgn.sourceforge.net/"
+            },
+            {
+              "title": "抓包工具",
+              "url": "https://www.charlesproxy.com/"
+            },
+            {
+              "title": "SSH终端连接",
+              "url": "https://github.com/kingToolbox/WindTerm/releases"
+            },
+            {
+              "title": "多地 Ping 测试",
+              "url": "https://kzisp.com/"
+            },
+            {
+              "title": "Postimages",
+              "url": "https://postimages.org/"
+            },
+            {
+              "title": "路过图床",
+              "url": "https://imgchr.com/"
+            },
+            {
+              "title": "ImgBB",
+              "url": "https://imgbb.com/"
+            },
+            {
+              "title": "聚合图床",
+              "url": "https://file.sang.pub/",
+              "badge": "NEW"
+            },
+            {
+              "title": "Sub Text",
+              "url": "https://www.sublimetext.com/"
+            },
+            {
+              "title": "Eclipse",
+              "url": "https://www.eclipse.org/downloads/"
+            },
+            {
+              "title": "Pycharm",
+              "url": "https://www.123pan.com/s/AYG9-vqVyH"
+            },
+            {
+              "title": "前端资源",
+              "url": "https://www.thosefree.com/web"
+            }
+          ]
+        }
+      ],
+      "slogan": "探索无限可能"
+    },
+    {
+      "name": "友情链接",
+      "icon": "🤝",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "刀搜盘",
+              "url": "https://www.daoso.cn/",
+              "badge": "推荐"
+            },
+            {
+              "title": "贱贱小窝",
+              "url": "https://www.huobk.com/"
+            },
+            {
+              "title": "金星导航",
+              "url": "https://dh.hxfst.com/"
+            },
+            {
+              "title": "小刀导航",
+              "url": "https://www.xddh.cn/"
+            },
+            {
+              "title": "大佬论坛",
+              "url": "https://www.dalao.net"
+            },
+            {
+              "title": "789技术导航",
+              "url": "https://789bh.com/"
+            },
+            {
+              "title": "蛙蛙导航",
+              "url": "https://www.wawadh.cn/"
+            },
+            {
+              "title": "二叔导航",
+              "url": "https://2sdh.com/"
+            },
+            {
+              "title": "硬核指南",
+              "url": "https://yinghezhinan.com/"
+            },
+            {
+              "title": "AI创作导航",
+              "url": "https://cxgn.cn/"
+            },
+            {
+              "title": "聚资源导航",
+              "url": "https://juzyw.com/"
+            },
+            {
+              "title": "一糖导航",
+              "url": "https://iitang.com/"
+            },
+            {
+              "title": "深度导航",
+              "url": "https://www.deepdh.com"
+            },
+            {
+              "title": "en导航",
+              "url": "https://www.enabcd.cn/"
+            },
+            {
+              "title": "百分导航",
+              "url": "https://100nav.com/"
+            },
+            {
+              "title": "4a影视导航",
+              "url": "https://www.4adh.com/"
+            },
+            {
+              "title": "果核导航",
+              "url": "https://heeee.com/"
+            },
+            {
+              "title": "顺为导航",
+              "url": "https://swnav.cn/"
+            },
+            {
+              "title": "Crx搜搜",
+              "url": "https://www.crxsoso.com/"
+            },
+            {
+              "title": "职场人导航",
+              "url": "https://www.zcrdh.com/"
+            },
+            {
+              "title": "AI资源导航站",
+              "url": "https://web-note.cn"
+            },
+            {
+              "title": "爱收集导航",
+              "url": "https://www.isjdh.com/"
+            },
+            {
+              "title": "找官网",
+              "url": "https://findgw.com/"
+            },
+            {
+              "title": "摸鱼导航",
+              "url": "https://www.moyudh.com/",
+              "badge": "NEW"
+            },
+            {
+              "title": "挖银子导航",
+              "url": "https://wayinzi.com/"
+            },
+            {
+              "title": "下次一定",
+              "url": "https://www.iiice.cn/"
+            },
+            {
+              "title": "资源导航",
+              "url": "https://vb1.cn/"
+            },
+            {
+              "title": "观影导航",
+              "url": "https://www.qhdh.top/"
+            }
+          ]
+        }
+      ],
+      "slogan": "友情链接，互惠互利"
+    },
+    {
+      "name": "常用AI工具",
+      "icon": "🥇",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "即梦AI",
+              "url": "https://jimeng.jianying.com/"
+            },
+            {
+              "title": "通义万相",
+              "url": "https://tongyi.aliyun.com/wan/generate"
+            },
+            {
+              "title": "chatgpt",
+              "url": "https://chatgpt.com/"
+            },
+            {
+              "title": "LartAICineStudio",
+              "url": "https://ce.lartai.com/"
+            },
+            {
+              "title": "Dola",
+              "url": "https://www.dola.com/chat/"
+            },
+            {
+              "title": "linkfox",
+              "url": "https://www.linkfox.com/"
+            },
+            {
+              "title": "Duck.ai",
+              "url": "https://duck.ai/"
+            },
+            {
+              "title": "千问-阿里 AI 助手",
+              "url": "https://www.qianwen.com/"
+            },
+            {
+              "title": "小云雀",
+              "url": "https://xyq.jianying.com/"
+            },
+            {
+              "title": "图片工具",
+              "url": "https://magiceraser.org/"
+            },
+            {
+              "title": "AI追光",
+              "url": "https://aizhuiguang.tech/"
+            },
+            {
+              "title": "ComfyUI",
+              "url": "https://cloud.comfy.org/cloud/login"
+            },
+            {
+              "title": "Veo3",
+              "url": "https://labs.google/"
+            },
+            {
+              "title": "ideogram",
+              "url": "https://ideogram.ai/t/explore"
+            },
+            {
+              "title": "DiffMind",
+              "url": "https://app.diffmind.ai/zh"
+            },
+            {
+              "title": "Arena AI",
+              "url": "https://arena.ai/"
+            },
+            {
+              "title": "灵猫去水印",
+              "url": "https://clearcat.lingxiangtools.top/"
+            },
+            {
+              "title": "123apps",
+              "url": "https://123apps.com/cn/"
+            },
+            {
+              "title": "可灵",
+              "url": "https://klingai.com/app"
+            },
+            {
+              "title": "海艺",
+              "url": "https://www.seaart.ai/zhCN"
+            },
+            {
+              "title": "库库AI",
+              "url": "https://kuku.baidu.com/"
+            },
+            {
+              "title": "Higgsfield",
+              "url": "https://higgsfield.ai/"
+            },
+            {
+              "title": "豆包",
+              "url": "https://www.doubao.com/"
+            },
+            {
+              "title": "leonardo",
+              "url": "https://app.leonardo.ai/"
+            },
+            {
+              "title": "MindVideo AI",
+              "url": "https://www.mindvideo.ai/"
+            },
+            {
+              "title": "AI绘画",
+              "url": "https://mj.bandeyu.com/"
+            },
+            {
+              "title": "magnific",
+              "url": "https://www.magnific.com/app"
+            },
+            {
+              "title": "堆友",
+              "url": "https://d.design/"
+            },
+            {
+              "title": "Happy Horse",
+              "url": "https://happy-horse.art/auth/signin"
+            },
+            {
+              "title": "MantleGo",
+              "url": "https://www.mantlegoai.com/Home"
+            },
+            {
+              "title": "Labnana",
+              "url": "https://labnana.com/zh"
+            },
+            {
+              "title": "CreatOK爆款猎人",
+              "url": "https://www.creatok.ai/app/dashboard"
+            },
+            {
+              "title": "FlowPix",
+              "url": "https://www.flowpix.club/"
+            },
+            {
+              "title": "Skild Art",
+              "url": "https://www.skildart.cn/"
+            },
+            {
+              "title": "evolink",
+              "url": "https://evolink.ai/zh/gpt-image-2"
+            },
+            {
+              "title": "Yapper",
+              "url": "https://yapper.so/dashboard"
+            },
+            {
+              "title": "fal",
+              "url": "https://fal.ai/sandbox?op=video.text_to_video&models="
+            },
+            {
+              "title": "妙构",
+              "url": "https://www.miaogou.tech/zh"
+            },
+            {
+              "title": "OiiOii",
+              "url": "https://www.oiioii.ai/home"
+            }
+          ]
+        }
+      ],
+      "slogan": "AI 工具集合，白嫖不花钱"
+    },
+    {
+      "name": "常用工具",
+      "icon": "🛄",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "CF",
+              "url": "https://dash.cloudflare.com/"
+            },
+            {
+              "title": "表答",
+              "url": "https://biaoda.me/"
+            },
+            {
+              "title": "地址生成器",
+              "url": "https://address.aixmb.cn/"
+            },
+            {
+              "title": "GitHub",
+              "url": "https://github.com/"
+            },
+            {
+              "title": "Runable",
+              "url": "https://runable.com/"
+            },
+            {
+              "title": "AI 工作市场",
+              "url": "https://www.runjobs.ai/zh/"
+            },
+            {
+              "title": "X",
+              "url": "https://x.com/"
+            },
+            {
+              "title": "Gemini",
+              "url": "https://gemini.google.com/app"
+            },
+            {
+              "title": "cobalt",
+              "url": "https://cobalt.tools/"
+            },
+            {
+              "title": "IP定位",
+              "url": "https://www.ipip.net/"
+            },
+            {
+              "title": "myip.ipip.net",
+              "url": "https://myip.ipip.net/"
+            },
+            {
+              "title": "UUID生成器",
+              "url": "https://www.uuidgenerator.net/version4"
+            },
+            {
+              "title": "Cloudflare EDT 导航",
+              "url": "https://bestcf.pages.dev/"
+            },
+            {
+              "title": "ping0.cc",
+              "url": "https://ping0.cc"
+            },
+            {
+              "title": "免费临时邮箱",
+              "url": "https://mail.cx/zh/"
+            },
+            {
+              "title": "CloudFlare优选IP_CF优选…",
+              "url": "https://api.uouin.com/cloudflare.html"
+            },
+            {
+              "title": "atoms",
+              "url": "https://atoms.dev/zh/dashboard"
+            },
+            {
+              "title": "CREAO",
+              "url": "https://agent.creao.ai/rewards?tab=tasks"
+            },
+            {
+              "title": "Skywork",
+              "url": "https://skywork.ai/"
+            }
+          ]
+        }
+      ],
+      "slogan": "日常小工具"
+    },
+    {
+      "name": "SKill",
+      "icon": "🛠",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "CocoLoop AI社区",
+              "url": "https://www.cocoloop.cn/"
+            },
+            {
+              "title": "CocoLoop",
+              "url": "https://hub.cocoloop.cn/"
+            },
+            {
+              "title": "updream",
+              "url": "https://www.updream.cn/"
+            }
+          ]
+        }
+      ],
+      "slogan": "Skill 技能包"
+    },
+    {
+      "name": "网站UI设计",
+      "icon": "📱",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "MotionSites",
+              "url": "https://motionsites.ai/"
+            }
+          ]
+        }
+      ],
+      "slogan": "UI 设计灵感库"
+    },
+    {
+      "name": "Prompt",
+      "icon": "🎉",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "Seedance 2.5 Prompt",
+              "url": "https://evolink.ai/zh/seedance-2-5-prompts"
+            },
+            {
+              "title": "AIART.PICS",
+              "url": "https://aiart.pics/"
+            },
+            {
+              "title": "AI Prompt Library",
+              "url": "https://promptsref.com/"
+            },
+            {
+              "title": "GPT Image 2提示词",
+              "url": "https://opennana.com/awesome-prompt-gallery?media_type=image"
+            },
+            {
+              "title": "youmind",
+              "url": "https://youmind.com/zh-CN/gpt-image-2-prompts"
+            },
+            {
+              "title": "AI工具",
+              "url": "https://familypro.io/en/gpt-image-2"
+            },
+            {
+              "title": "Vibe Shot Club",
+              "url": "https://vibeshot.club/gallery"
+            },
+            {
+              "title": "promptmart",
+              "url": "https://www.promptmart.cn/"
+            }
+          ]
+        }
+      ],
+      "slogan": "Prompt 提示词大全"
+    },
+    {
+      "name": "短视频类",
+      "icon": "🎥",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "小红书",
+              "url": "https://www.xiaohongshu.com/"
+            },
+            {
+              "title": "YouTube",
+              "url": "https://www.youtube.com/"
+            }
+          ]
+        }
+      ],
+      "slogan": "短视频创作工具"
+    },
+    {
+      "name": "影视工具",
+      "icon": "📽",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "海量电视电影",
+              "url": "https://moovie.c2v2.com/"
+            }
+          ]
+        }
+      ],
+      "slogan": "影视相关工具"
+    },
+    {
+      "name": "无限画布类",
+      "icon": "✒️",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "京东云灵境",
+              "url": "https://lingjing.jdcloud.com/"
+            },
+            {
+              "title": "万镜一刻",
+              "url": "https://www.yikeai.com/#/home"
+            },
+            {
+              "title": "新片场",
+              "url": "https://aigc.xinpianchang.com/"
+            },
+            {
+              "title": "flova.tv",
+              "url": "https://flova.tv/zh-CN"
+            },
+            {
+              "title": "LibTV",
+              "url": "https://www.liblib.tv/"
+            },
+            {
+              "title": "AI应用聚合平台",
+              "url": "https://ccai.quantv.com/dashboard"
+            },
+            {
+              "title": "RunningHub",
+              "url": "https://www.runninghub.cn/#/home"
+            },
+            {
+              "title": "Seko",
+              "url": "https://seko.sensetime.com/"
+            },
+            {
+              "title": "小影马",
+              "url": "https://yingma.tv/"
+            }
+          ]
+        }
+      ],
+      "slogan": "无限画布创作"
+    },
+    {
+      "name": "AI充值平台",
+      "icon": "💰",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "ChatGPT Plus",
+              "url": "https://bewild.ai/subscribe"
+            }
+          ]
+        }
+      ],
+      "slogan": "AI 充值渠道"
+    },
+    {
+      "name": "工具下载",
+      "icon": "⚙️",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "币安",
+              "url": "https://www.binance.com/zh-CN/download"
+            },
+            {
+              "title": "4K工具下载器",
+              "url": "https://www.4kdownload.com/thanks-for-downloading?source=videodownloaderandroid"
+            }
+          ]
+        }
+      ],
+      "slogan": "常用工具下载"
+    },
+    {
+      "name": "部署网站工具",
+      "icon": "🏝",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "Netlify",
+              "url": "https://app.netlify.com/"
+            }
+          ]
+        }
+      ],
+      "slogan": "网站部署一条龙"
+    },
+    {
+      "name": "个人开发工具",
+      "icon": "🕹",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "Link3",
+              "url": "https://link3.cc/user"
+            },
+            {
+              "title": "小渝児工具箱 - 喜庆版",
+              "url": "https://xiaoyuer7758.vercel.app/"
+            }
+          ]
+        }
+      ],
+      "slogan": "个人开发者必备"
+    },
+    {
+      "name": "魔法工具",
+      "icon": "🔮",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "365魔法工具",
+              "url": "https://databridgestackpro.com/"
+            },
+            {
+              "title": "在线网速测试",
+              "url": "http://www.wangsu8.com/"
+            }
+          ]
+        }
+      ],
+      "slogan": "魔法上网工具"
+    },
+    {
+      "name": "AI音乐创作",
+      "icon": "📻",
+      "groups": [
+        {
+          "name": "默认",
+          "bookmarks": [
+            {
+              "title": "AI 音樂影片生成器",
+              "url": "https://app.edimakor.ai/tw/studio/ai-music-video-generator?from=tab"
+            }
+          ]
+        }
+      ],
+      "slogan": "AI 音乐创作"
+    },
+    {
+      "name": "浏览器新增收藏",
+      "icon": "?",
+      "groups": [
+        {
+          "name": "暂无内容",
+          "bookmarks": []
+        }
+      ],
+      "slogan": "新收藏速递"
+    },
+    {
+      "name": "软件下载",
+      "icon": "?",
+      "groups": [
+        {
+          "name": "暂无内容",
+          "bookmarks": []
+        }
+      ],
+      "slogan": "软件下载合集"
+    }
+  ]
+}
